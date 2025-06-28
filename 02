@@ -2,7 +2,7 @@
 <html lang="zh-Hant">
 <head>
   <meta charset="UTF-8">
-  <title>雷射切割,雷射雕刻-長松雷射切割雕刻</title>
+  <title>認識雷射 - 長松雷射</title>
   <meta name="keywords" content="雷射切割,雷射雕刻">
   <meta name="description" content="雷射切割,雷射雕刻推薦優質廠商長松雷射切割雕刻,長松雷射雕刻,雷射切割採用工業級高精度雷射切割雕刻機雷射突破傳統加工限制，成就細緻切割雕刻工藝。歡迎您有雷射切割,雷射雕刻需求來電洽詢">
   <style>
@@ -14,12 +14,17 @@
       max-width: 900px;
       margin: 0 auto;
       line-height: 1.8;
+      position: relative;
     }
-    h1 {
-      color: #0066cc;
-      margin-top: 0;
+    .sidebar {
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 173px;
+      height: 760px;
     }
     nav {
+      margin-left: 180px;
       margin-bottom: 24px;
     }
     nav a {
@@ -32,22 +37,42 @@
     nav a:hover {
       text-decoration: underline;
     }
-    .info, .copyright {
-      font-size: 0.98em;
-      color: #444;
-      margin-top: 32px;
+    .main-content {
+      margin-left: 200px;
+    }
+    h1 {
+      color: #0066cc;
+      margin-top: 0;
     }
     .highlight {
       color: #0060BF;
       font-weight: bold;
     }
+    .main-img {
+      margin-top: 16px;
+      margin-bottom: 24px;
+    }
+    .info, .copyright {
+      font-size: 0.98em;
+      color: #444;
+      margin-top: 32px;
+    }
     .contact {
       margin-top: 16px;
       font-size: 1em;
     }
+    .fb-icon {
+      vertical-align: middle;
+      margin-right: 6px;
+    }
+    @media (max-width: 700px) {
+      .sidebar, nav, .main-content { margin-left: 0 !important; }
+      .sidebar { display: none; }
+    }
   </style>
 </head>
 <body>
+  <img class="sidebar" src="images/image389.png" alt="sidebar">
   <nav>
     <a href="../index.htm">長松雷射</a>
     <a href="02.htm">認識雷射</a>
@@ -55,34 +80,47 @@
     <a href="04.htm">雷射雕刻</a>
     <a href="05.htm">與我聯絡</a>
   </nav>
+  <div class="main-content">
+    <img src="images/image3421.png" alt="主視覺" width="424" height="160" class="main-img">
 
-  <h1>認識雷射</h1>
-  <section>
-    <h2 class="highlight">雷射加工原理</h2>
-    <p>簡單來說，雷射加工就是利用雷射光束聚焦於一點，使其瞬間溫度達到攝氏千度以上，瞬間汽化物件，達到各種切割、雕刻效果。由於不需接觸工件、光點細小、精度高，以及高自由度（無需製作模具），已快速取代各種傳統加工。</p>
+    <h1>認識雷射</h1>
 
-    <h2 class="highlight">雷射加工應用</h2>
-    <ul>
-      <li>自由度高：無需繁雜製版，一圖搞定，節省成本。</li>
-      <li>精緻度高：非接觸加工，可突破傳統刀具限制，實現更細緻的工藝。</li>
-      <li>切面平整：高溫瞬間汽化，切面平滑不毛邊。</li>
-      <li>耐久性高：圖案不脫落、不磨損，更可作為防偽之用。</li>
-    </ul>
-  </section>
+    <section>
+      <h2 class="highlight">雷射加工原理</h2>
+      <img src="images/image318.gif" alt="原理小圖" width="160" height="120" style="float:right; margin:0 0 16px 16px;">
+      <p>
+        雷射加工是利用高度聚焦的雷射光束於一點，瞬間產生高溫（攝氏千度以上）將物件汽化，達到精密切割或雕刻效果。
+        由於不需接觸工件、光點極細、加工精度高且彈性大（無須開模），早已廣泛取代傳統加工方式。
+      </p>
+      <img src="images/image293.gif" alt="加工原理示意圖" width="400" height="193" class="main-img">
+    </section>
 
-  <div class="info">
-    台中市龍井區新庄街一段206號<br>
-    TEL: (04)26521170　FAX: (04)26521158　E-Mail: aska110169@yahoo.com.tw
-  </div>
-  <div class="copyright">
-    本網頁內容 © 長松工藝社 版權所有，轉載必究<br>
-    <a href="http://www.cs-laser.com.tw">雷射切割</a>、
-    <a href="http://www.cs-laser.com.tw">雷射雕刻</a>推薦優質廠商長松雷射切割雕刻
-  </div>
-  <div class="contact">
-    <a href="http://www.facebook.com/pages/%E9%95%B7%E6%9D%BE%E9%9B%B7%E5%B0%84/205503656136894?sk=info" target="_blank">
-      長松雷射的 Facebook
-    </a>
+    <section>
+      <h2 class="highlight">雷射加工應用</h2>
+      <ul>
+        <li>自由度高：無需繁瑣製版，一圖搞定，節省大量成本。</li>
+        <li>精緻度高：非接觸加工，可突破刀具極限，創造細緻工藝。</li>
+        <li>切面平整：高溫汽化，切面光滑無毛邊。</li>
+        <li>耐久性佳：圖案不脫落、不磨損，可作為防偽標記。</li>
+      </ul>
+    </section>
+
+    <div class="info">
+      台中市龍井區新庄街一段206號<br>
+      TEL: (04)26521170　FAX: (04)26521158　E-Mail: aska110169@yahoo.com.tw
+    </div>
+    <div class="copyright">
+      本網頁內容 © 長松工藝社 版權所有，轉載必究<br>
+      <a href="http://www.cs-laser.com.tw">雷射切割</a>、
+      <a href="http://www.cs-laser.com.tw">雷射雕刻</a>推薦優質廠商長松雷射切割雕刻
+    </div>
+    <div class="contact">
+      <a href="http://www.facebook.com/pages/%E9%95%B7%E6%9D%BE%E9%9B%B7%E5%B0%84/205503656136894?sk=info" target="_blank">
+        <img src="images/image2801.png" alt="facebook" width="20" height="20" class="fb-icon">
+        長松雷射的 Facebook
+      </a>
+    </div>
   </div>
 </body>
 </html>
+
