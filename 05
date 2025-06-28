@@ -3,17 +3,17 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>雷射雕刻加工｜長松雷射切割｜專業雕刻、客製化設計（台中）</title>
-  <meta name="description" content="長松雷射提供精密雷射雕刻加工、雷射切割服務，專業團隊協助各類材料、圖案的客製化需求。台中地區專業廠商，歡迎企業及個人諮詢。">
-  <meta name="keywords" content="雷射雕刻,雷射切割,客製化雕刻,台中雷射,雕刻加工,長松雷射">
-  <meta property="og:title" content="雷射雕刻加工｜長松雷射切割">
-  <meta property="og:description" content="台中專業雷射雕刻與切割加工，精密高效，客製化服務。">
+  <title>聯絡我們｜長松雷射切割雕刻</title>
+  <meta name="description" content="聯絡長松雷射，台中專業雷射雕刻與切割廠商。歡迎企業、創作者、設計師洽詢客製加工服務。">
+  <meta name="keywords" content="聯絡,雷射切割,雷射雕刻,台中雷射,長松雷射">
+  <meta property="og:title" content="聯絡我們｜長松雷射切割雕刻">
+  <meta property="og:description" content="台中專業雷射雕刻與切割，客製化服務、快速打樣。">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.cs-laser.com.tw/">
   <meta property="og:image" content="https://www.cs-laser.com.tw/img/og-image.jpg">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="雷射雕刻加工｜長松雷射切割">
-  <meta name="twitter:description" content="台中雷射雕刻、切割、客製加工專家，值得信賴。">
+  <meta name="twitter:title" content="聯絡我們｜長松雷射切割雕刻">
+  <meta name="twitter:description" content="聯絡台中專業雷射雕刻、切割加工專家。">
   <meta name="twitter:image" content="https://www.cs-laser.com.tw/img/og-image.jpg">
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700&display=swap" rel="stylesheet">
   <style>
@@ -53,53 +53,44 @@
     h1 {
       color: #1768ac;
       font-size: 2em;
-      margin-bottom: 12px;
+      margin-bottom: 18px;
       font-weight: 700;
-    }
-    h2 {
-      color: #0b3d6a;
-      margin: 32px 0 12px 0;
-      font-size: 1.3em;
-      font-weight: 700;
-      border-left: 5px solid #b6e0fe;
-      padding-left: 12px;
-      background: linear-gradient(90deg, #eaf6ff 60%, transparent 100%);
-      border-radius: 2px;
-    }
-    ul {
-      padding-left: 22px;
-      margin: 10px 0 24px 0;
-    }
-    ul li {
-      margin-bottom: 7px;
-      line-height: 1.7;
-    }
-    .info, .copyright, .contact {
-      font-size: 1em;
-      color: #53565a;
-      margin-top: 30px;
-      line-height: 1.7;
     }
     .info {
       background: #f3f9ff;
-      padding: 12px 16px;
+      padding: 18px 20px;
       border-radius: 10px;
-      display: inline-block;
-      margin-bottom: 10px;
+      margin-bottom: 24px;
+      font-size: 1.08em;
+      line-height: 1.9;
+    }
+    .map-embed {
+      margin: 30px 0 24px 0;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 2px 12px rgba(23,104,172,0.09);
     }
     .copyright {
       font-size: 0.97em;
       color: #868686;
-      margin-top: 24px;
+      margin-top: 30px;
     }
     .contact {
-      margin-top: 16px;
+      margin-top: 18px;
+    }
+    .contact a {
+      color: #1867c0;
+      font-weight: 600;
+      text-decoration: none;
+      margin-right: 12px;
+    }
+    .contact a:hover {
+      text-decoration: underline;
     }
     @media (max-width: 700px) {
       .container { padding: 18px 2vw 18px 2vw; }
       nav { gap: 10px; font-size: 1em; }
       h1 { font-size: 1.3em; }
-      h2 { font-size: 1.08em; }
     }
   </style>
 </head>
@@ -112,21 +103,18 @@
       <a href="04.htm">雷射雕刻</a>
       <a href="05.htm">與我聯絡</a>
     </nav>
-    <h1>雷射雕刻加工服務</h1>
-    <h2>多元材質雕刻、精密客製，一站式解決</h2>
-    <p>長松雷射專注於各式雷射雕刻、切割，服務內容涵蓋金屬、壓克力、木頭、皮革等多樣材料，滿足企業量產或個人設計需求。我們以經驗豐富的團隊與高精度設備，為您帶來穩定高品質的雕刻加工成果。</p>
-    <ul>
-      <li>圖樣細膩、質感提升，企業禮品、LOGO客製首選。</li>
-      <li>快速打樣，彈性承接少量／大量製作。</li>
-      <li>服務經驗豐富，協助設計諮詢與打樣建議。</li>
-      <li>專業流程控管，交期準確。</li>
-    </ul>
+    <h1>聯絡我們</h1>
     <div class="info">
-      台中市龍井區新庄街一段206號<br>
-      TEL: (04)26521170　FAX: (04)26521158　E-Mail: <a href="mailto:aska110169@yahoo.com.tw">aska110169@yahoo.com.tw</a>
+      地址：台中市龍井區新庄街一段206號<br>
+      電話：<a href="tel:0426521170">(04) 2652-1170</a>　
+      傳真：(04) 2652-1158<br>
+      E-Mail：<a href="mailto:aska110169@yahoo.com.tw">aska110169@yahoo.com.tw</a>
+    </div>
+    <div class="map-embed">
+      <iframe src="https://www.google.com/maps?q=台中市龍井區新庄街一段206號&output=embed" width="100%" height="320" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
     <div class="contact">
-      <a href="http://www.facebook.com/pages/%E9%95%B7%E6%9D%BE%E9%9B%B7%E5%B0%84/205503656136894?sk=info" target="_blank" style="color:#1867c0;font-weight:600;">長松雷射 Facebook</a>
+      <a href="http://www.facebook.com/pages/%E9%95%B7%E6%9D%BE%E9%9B%B7%E5%B0%84/205503656136894?sk=info" target="_blank">長松雷射 Facebook</a>
     </div>
     <div class="copyright">
       本網頁內容 © 長松工藝社 版權所有，轉載必究<br>
