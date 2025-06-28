@@ -3,42 +3,29 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>雷射切割、雷射雕刻｜長松雷射切割雕刻｜專業高精度加工</title>
-  <meta name="description" content="長松雷射，專業雷射切割與雕刻服務，工業級高精度設備，突破傳統工藝，細緻加工，客製化設計，台中雷射加工推薦，歡迎洽詢！">
-  <meta name="keywords" content="雷射切割,雷射雕刻,雷射加工,台中雷射,精密加工,長松雷射">
-  <!-- Open Graph for Facebook -->
-  <meta property="og:title" content="雷射切割、雷射雕刻｜長松雷射切割雕刻">
-  <meta property="og:description" content="專業雷射切割與雕刻服務，工業級高精度，細緻工藝，客製化需求歡迎聯絡。">
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="https://www.cs-laser.com.tw/">
-  <meta property="og:image" content="https://www.cs-laser.com.tw/img/og-image.jpg">
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="雷射切割、雷射雕刻｜長松雷射切割雕刻">
-  <meta name="twitter:description" content="台中專業雷射切割、雕刻加工，歡迎洽詢長松雷射！">
-  <meta name="twitter:image" content="https://www.cs-laser.com.tw/img/og-image.jpg">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700&display=swap" rel="stylesheet">
+  <title>雷射切割｜長松雷射切割雕刻</title>
+  <meta name="keywords" content="雷射切割,雷射雕刻,精密加工,長松雷射,台中雷射">
+  <meta name="description" content="長松雷射專業雷射切割，工業級高精度設備，精緻細膩、快速加工，客製化各種材料，歡迎洽詢。">
   <style>
     body {
       font-family: 'Noto Sans TC', 'Microsoft JhengHei', Arial, sans-serif;
-      background: #f5f7fa;
+      background: #f8f8f8;
       color: #222;
       margin: 0;
       padding: 0;
     }
     .container {
-      max-width: 880px;
+      max-width: 900px;
       margin: 40px auto 40px auto;
       background: #fff;
       border-radius: 18px;
-      box-shadow: 0 4px 24px rgba(0,0,0,0.07), 0 1.5px 4px rgba(0,0,0,0.03);
-      padding: 38px 26px 32px 26px;
+      box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+      padding: 36px 26px 32px 26px;
     }
     nav {
       display: flex;
-      gap: 28px;
-      margin-bottom: 36px;
+      gap: 26px;
+      margin-bottom: 32px;
       flex-wrap: wrap;
       align-items: center;
     }
@@ -46,7 +33,7 @@
       color: #0066cc;
       text-decoration: none;
       font-weight: 700;
-      font-size: 1.08em;
+      font-size: 1.05em;
       letter-spacing: 0.5px;
       padding: 4px 0;
       border-bottom: 2px solid transparent;
@@ -57,25 +44,38 @@
     }
     h1 {
       color: #0066cc;
-      font-size: 2.2em;
-      letter-spacing: 1.5px;
-      margin: 0 0 10px 0;
+      font-size: 2em;
+      margin: 0 0 18px 0;
       font-weight: 700;
+      letter-spacing: 1px;
     }
     h2 {
       color: #0050a5;
       margin-top: 34px;
       margin-bottom: 10px;
-      font-size: 1.35em;
+      font-size: 1.25em;
       font-weight: 700;
       border-left: 5px solid #b2e0ff;
       padding-left: 12px;
       background: linear-gradient(90deg, #e6f4ff 60%, transparent 100%);
       border-radius: 2px;
     }
+    .section-images {
+      display: flex;
+      gap: 20px;
+      flex-wrap: wrap;
+      margin: 30px 0 18px 0;
+      justify-content: center;
+    }
+    .section-images img {
+      max-width: 200px;
+      border-radius: 8px;
+      background: #f3f3f3;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.07);
+    }
     ul {
       padding-left: 24px;
-      margin: 12px 0 24px 0;
+      margin: 10px 0 24px 0;
     }
     ul li {
       margin-bottom: 7px;
@@ -91,11 +91,11 @@
       background: #f2f9ff;
       padding: 14px 16px;
       border-radius: 10px;
-      display: inline-block;
       margin-bottom: 12px;
+      display: inline-block;
     }
     .copyright {
-      font-size: 0.96em;
+      font-size: 0.97em;
       color: #888;
       margin-top: 28px;
     }
@@ -103,10 +103,11 @@
       margin-top: 20px;
     }
     @media (max-width: 680px) {
-      .container { padding: 18px 4vw 20px 4vw; }
+      .container { padding: 16px 3vw 18px 3vw; }
       nav { gap: 12px; font-size: 0.99em; }
-      h1 { font-size: 1.4em; }
-      h2 { font-size: 1.07em; }
+      h1 { font-size: 1.22em; }
+      h2 { font-size: 1.04em; }
+      .section-images img { max-width: 45vw; }
     }
   </style>
 </head>
@@ -120,17 +121,25 @@
       <a href="05.htm">與我聯絡</a>
     </nav>
 
-    <h1>認識雷射</h1>
+    <h1>雷射切割</h1>
 
-    <h2>雷射加工原理</h2>
-    <p>雷射加工是利用高能量雷射光束聚焦於一點，使物件瞬間達到高溫汽化。這種非接觸式、極高精度與彈性的加工方式，已廣泛應用於細緻切割與雕刻，突破傳統工藝的各種限制。</p>
+    <!-- 代表性圖片（請將圖片放到 images 資料夾，修改 src 即可） -->
+    <div class="section-images">
+      <img src="images/laser-cutting-01.png" alt="雷射切割樣品1">
+      <img src="images/laser-cutting-02.png" alt="雷射切割樣品2">
+      <img src="images/laser-cutting-03.png" alt="雷射切割樣品3">
+    </div>
 
-    <h2>雷射加工應用優勢</h2>
+    <h2>什麼是雷射切割？</h2>
+    <p>雷射切割是一種以高能量雷射光束，將金屬、壓克力、木頭、塑膠等多種材料，精密而快速地切割成各種指定形狀的技術。其優點是切割邊緣極為平整，尺寸精確，可大幅提升加工效率，並實現複雜、細膩的客製化圖案。</p>
+
+    <h2>雷射切割優勢</h2>
     <ul>
-      <li>自由度高：不需製版，一圖搞定，省時省工。</li>
-      <li>精緻度高：非接觸加工，可突破傳統刀具的侷限。</li>
-      <li>切面平整：高溫瞬間汽化，切面光滑、無毛邊。</li>
-      <li>耐久性高：不脫落、不磨損，可用於防偽。</li>
+      <li>切割速度快，效率高，適合大量生產。</li>
+      <li>可精確處理複雜或極細緻的設計。</li>
+      <li>材料適用性廣：金屬、塑膠、木材、壓克力、布料等。</li>
+      <li>邊緣平滑、精度高，省去多餘加工。</li>
+      <li>數位化輸出，無需額外模具，靈活彈性。</li>
     </ul>
 
     <div class="info">
